@@ -1,0 +1,9 @@
+body
+{
+    text-align: center;
+    margin: 1em 1em 1em 1em;
+}
+#coordenadas
+{
+    border: 1px solid black;
+}

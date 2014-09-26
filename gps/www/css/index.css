@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    margin: 0 auto;
+    padding: 1em 1em 1em 1em;
+    background: #DDD;
+}
+.coordenadas,.masinfo,#mas
+{
+    display: none;
+}
+.masinfo{
+    margin-top:30px;
+    font-size: 2em;
+    color: red;
+}

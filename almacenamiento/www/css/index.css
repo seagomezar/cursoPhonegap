@@ -1,0 +1,10 @@
+body
+{
+    text-align: center;
+    margin: 1em 1em 1em 1em;
+}
+#crearForm
+{
+    border: 1px solid black;
+    text-align: center;
+}

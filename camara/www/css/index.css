@@ -1,0 +1,36 @@
+body {      
+    background-color:#E4E4E4;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    text-align: center;
+}
+
+#photo{
+    display:none;
+    width:90%;
+    height:300px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+#sendPhoto{
+    display: none;
+}
+
+#removePhoto{
+    display: none;
+}
+.imagen
+{
+    text-align: center;
+     margin: 10px auto;
+}
+.botonera{
+    text-align: center;
+    display: inline-block;
+    margin: 10px auto;
+}
